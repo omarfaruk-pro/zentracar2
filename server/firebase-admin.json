@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "zentracar2",
+  "private_key_id": "76f0c1ecc8fbbd8dcd79b1e03bd8e99d7b45536c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCO5ZO756LNpTXS\n/+gG3R45BnYIqoIQdFPVLR6I9uCntgDjg7sQjGDzUpTdX9aw26GlMbt9KrG2JHPl\nWxWp+90VPvFE4MHELQNXhF5y3ssO/FtJrhijVXjk1cukniHDBXhAcLfzTNowQKBt\n/n6H1HczA7r/wxUD2HMuq2O4Wed7lrSg8M/zLYx65lzBNeEfHQoavyt+X1aK98s0\nifDEr7pjyAj0e0sc/Jy5vt7Yo3SGeSIkG2pfIQ1E+bhof74HyDUQ/JBFLIVxhcDP\nX35vP7tS7QmH8DoVTxVMTKjRM9CnM+DYQTxkb2D+DyY2soIMs+mUjJjmzaoqu8Ey\nJL4BkADRAgMBAAECggEAMoSFGvwD+VG72pFv9OU9JwnatquY+bo2XPnrfp5Qw9m7\nLLPIcUw/hiYezLhyDOpIlj8juldapjry4hW2bfbFrRoob6JJvlHviYQZY+DRxsV+\nfGjY+v1flP7kVJk29Fw9rAJtdc0oocBnNxuundSGI3nhJURRbJ+b8NbUlTrrdCxG\n+CDAQFN0TkvsG/yECoCa5MwqEHsbpZb3zg/eVVChCK4BEZ9JHu5PpASQdSssGkUc\nNXeWMIrVDD+BDfS1vo1v+TkcrEjT/1ab8DCdpETtsZVc0zq9hSoHgTTCkxHnwDno\ngidDTLiU6cVS15bT3KRTN/+oX3qt3XMedSRfettnZQKBgQDFXakv7qnFSDnMHNwS\nUBvtFnVZ/0JL7RFv/EJHqLMt7zFzOilWebQ0mQbsaNLmCkyrlODEzz/CSq3hn2Vq\nStmz9aUlyAF4t/cKKY2xvzG2ObVki51CnOzfscKKGhF4lgZCqrH4PRcQvj8pGgUM\n31yMXgKdBWRrTOwZ0B7rTeIVtwKBgQC5WVv5PUzSv0XyOAoIL+j/4BzLUBjUjmFA\ns4myk5V/4MKKo3SQj/mbto4b/CIWAp5afO8NM9nDBuLj0Y7gvAuzoLGiXFAu4E/A\ndjDveNXbZJsSd1FsLGcm7Xu5qSx0v97cndg4KloHt9Z6mWqJ2yp7zgld13SF5o/0\nuYjfDWldtwKBgCGACFuucvqdi9HthB1Ho7XWfgzMmwAwOSl88/Md22wMkaQxVxrq\nhX/4CYjPMh0B2om1N4Gwe+4KpwEJATnNgq5dH68OB9Hpx/DdpMNq5JE9smBiokrQ\nQBSoI5E1Y4nITT+7oYG1PNkGscnUNM8+ioL44hCs/aKI5/pprRXbnmh5AoGAKyHb\nYGXegdCXI2XdF8imbR0nNjz+ekBj612cdp0XljmkrASbtKR8jrrt2R9Ug1C6rw4R\nxz3AuDzbAe8bU7sO8g88Jy9aTX5PsNcQTjoNck+4MpTnssemfY2YVD1FJiocX7Sv\nw2o/pzolxEP9YfVJrqPk1By2dg6Qg3/FlTqWwYMCgYEAhMrMXjibGiFTv4wZZou8\nwjM8a9BKBaHqqwI/tYHWiEIWJF0qwPsgPnaMQEEQq2f8jydqiDh6WPESEdkctYz8\ny9J78S3QvpTLhFCrGNa6byk0C3/WkVgvDzMfyKF1Mt9xBvr7matVZkNYxxPhLzPD\nn+9F80lPPHrc9YUBDsiLyC8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@zentracar2.iam.gserviceaccount.com",
+  "client_id": "116721390190716182794",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40zentracar2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
